@@ -22,3 +22,8 @@ p {
     line-height: 2;
     letter-spacing: 1px;
   }
+  p {
+    color: pink;
+    width: 500px;
+    border: 1px solid black;
+  }
